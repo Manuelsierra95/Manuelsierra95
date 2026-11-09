@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi, I'm Manu 👋, FullStack developer, formed in **[42 Madrid Telefónica](https://www.42madrid.com/en/)** and **[Medac](https://medac.es)**.
-🔭 I’m currently working on Apl8s.<br>👯 I’m looking to collaborate in any IoT project.<br>🌱 I’m currently learning web and mobile frameworks
+🔭 I’m currently working on Billber.
 
 👨‍💻 All of my projects are available at [https://www.msierra.dev/](https://www.msierra.dev/)
 
